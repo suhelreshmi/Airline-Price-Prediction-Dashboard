@@ -4,8 +4,13 @@ The project idea is to showcase the variation in the flight prices based on diff
 Use the attached excel data for this project. For the data visualization dashboard, you can explore any of the Power BI visualization types and the Tableau visualization charts. 
 Create dashboard using PowerBI using the Airline Price Prediction dataset.
 It should answer the below questions. You are free to add additional info also.
+
 a) Does price vary with Airlines?
+
 b) How is the price affected when tickets are bought in just 1 or 2 days before departure?
+
 c) Does ticket price change based on the departure time and arrival time?
+
 d) How the price changes with change in Source and Destination?
+
 e) How does the ticket price vary between Economy and Business class? 
